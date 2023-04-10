@@ -7,6 +7,7 @@ fuzzywuzzy
 vosk
 queue
 
++ https://alphacephei.com/vosk/models > vosk-model-small-ru-0.22 
 
 
 
